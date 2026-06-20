@@ -6,6 +6,7 @@ Ce projet me sert à appendre git.
 * [x] Créer un dossier
 * [x] Initialiser git
 * [x] Connecter compte à Git Classroom
+* [X] Ecrire un README
 * [x] Cloner un repo
 * [x] Créer un conflit
 
