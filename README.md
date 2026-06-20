@@ -30,6 +30,7 @@ public class Test1 {
 ```
 ## Liens pratiques
 [Page Wikipedia de Lausanne](https://fr.wikipedia.org/wiki/Lausanne)
+
 <https://fr.wikipedia.org/wiki/Lausanne>
 
 *Deux manières différentes d'intégrer des liens :)*
@@ -37,4 +38,5 @@ public class Test1 {
 ## Other GitHub specific features
 > [!TIP]
 > Dense makeup brushes for liquid blush
+> 
 > Fluffy makeup brushes for powder blush
