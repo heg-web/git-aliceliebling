@@ -5,6 +5,7 @@ Ce projet me sert à appendre git.
 
 * [x] Créer un dossier
 * [x] Initialiser git
+* [x] Connecter compte à Git Classroom
 * [x] Cloner un repo
 
 
