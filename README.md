@@ -7,7 +7,7 @@ Ce projet me sert à appendre git.
 * [x] Initialiser git
 * [x] Connecter compte à Git Classroom
 * [x] Cloner un repo
-* [] Créer un conflit
+* [ ] Créer un conflit
 
 
 ![Image de matcha](TinyMatcha.jpeg)
