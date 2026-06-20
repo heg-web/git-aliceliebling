@@ -5,6 +5,8 @@ Ce projet me sert à appendre git.
 
 * [x] Créer un dossier
 * [x] Initialiser git
+* [x] Cloner un repo
+
 
 ![Image de matcha](TinyMatcha.jpeg)
 
